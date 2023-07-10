@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = N:/Games/Curse/Instances/Better MC [FORGE] - BMC4/saves/Test3
+}
+

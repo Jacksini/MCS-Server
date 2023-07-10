@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/NoBushyLeaves.zip",
+    "file/Icons.zip",
+    "file/Mandalas_Legacy_Gui_Background.zip",
+    "file/MandalasGUI+Modded_Dakmode_v4.2.zip",
+    "file/Stay_True_1.20.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "file/WDA-NoFlyingStructures-OWEND-1.18.2-1.19.zip": {
+      "hidden": true
+    },
+    "file/WDA-VanillaLoot-1.18.2-1.19.2-0.0.1.zip": {
+      "hidden": true
+    },
+    "file/MoreStructures-SpacingTweaks-1.20.1-2.1.56.zip": {
+      "hidden": true
+    }
+  }
+}
